@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
             nombre: "Producto 3", 
             precio: 40, 
             imagen: "https://i.postimg.cc/FzqGyJDp/Whats-App-Image-2024-09-24-at-2-48-35-PM.jpg",
-            tallas: ["S","j", "L", "L"] 
+            tallas: ["S","m", "L", "xl"] 
         }
     ];
 
